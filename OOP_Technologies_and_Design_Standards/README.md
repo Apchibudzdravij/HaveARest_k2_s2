@@ -1,6 +1,6 @@
-#List of labs#
+# List of labs
 ===
-##1-5: T-Shirt Shop ;) (WinForms)##
+## 1-5: T-Shirt Shop ;) (WinForms)
 ---
 1 - WinForms
 --
