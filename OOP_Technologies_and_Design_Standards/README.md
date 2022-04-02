@@ -13,3 +13,5 @@
 --
 5 - Применение структурных и паттернов поведения
 --
+---
+### Some issues with resolving you cant find in the comments of commits!
