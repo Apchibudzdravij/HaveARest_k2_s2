@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>White</name>
+  <id>#06</id>
+  <size>s</size>
+  <date>2022-03-18T14:49:11</date>
+  <customer>RTX</customer>
+  <email>example3@exexex.com</email>
+</Product>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Black</name>
+  <id>#05</id>
+  <size>xl</size>
+  <date>2022-04-08T14:49:11</date>
+  <customer>TNN_Hika</customer>
+  <email>example5@eee.com</email>
+</Product>

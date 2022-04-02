@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <products>
+    <Product>
+      <name>Black&amp;Yellow</name>
+      <id>#01</id>
+      <size>m</size>
+      <date>2019-01-11T14:49:11</date>
+      <customer>QwErTy</customer>
+      <email>example7@exxx.com</email>
+    </Product>
+    <Product>
+      <name>Black&amp;Yellow</name>
+      <id>#01</id>
+      <size>xl</size>
+      <date>2022-03-14T14:49:11</date>
+      <customer>Murka24</customer>
+      <email>example2_2@exexe.com</email>
+    </Product>
+  </products>
+</List>

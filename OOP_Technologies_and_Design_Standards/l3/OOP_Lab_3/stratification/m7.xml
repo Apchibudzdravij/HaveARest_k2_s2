@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Black&amp;Red</name>
+  <id>#04</id>
+  <size>l</size>
+  <date>2024-03-14T14:49:11</date>
+  <customer>Luboj_po_klave</customer>
+  <email>example6@exxx.com</email>
+</Product>
