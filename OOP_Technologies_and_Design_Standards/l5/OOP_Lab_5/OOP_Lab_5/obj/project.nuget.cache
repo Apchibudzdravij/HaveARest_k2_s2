@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOw334ZBypG47OpMoXvqfHnm0GJmFjuFPVrI8AkVBWueXsiICEWUQg33d61JdwHoc+FA6lymf4cXxS1SIi7tPA==",
+  "success": true,
+  "projectFilePath": "d:\\ExtendedData\\Laboratory\\ООТПиСП\\l5\\OOP_Lab_5\\OOP_Lab_5\\OOP_Lab_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
