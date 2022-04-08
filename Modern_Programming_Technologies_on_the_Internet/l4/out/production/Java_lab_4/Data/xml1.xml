@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Deport>
+    <counterLA>2</counterLA>
+    <counterFC>2</counterFC>
+    <laArr>
+        <LightWeightAuto>
+            <maxSpeed>120</maxSpeed>
+            <cost>12000</cost>
+            <serialNumber>AAA111BBB222CC3</serialNumber>
+            <govNumber>1234AB7</govNumber>
+            <fluelConsumption>10.5</fluelConsumption>
+            <wheels>4</wheels>
+        </LightWeightAuto>
+        <LightWeightAuto>
+            <maxSpeed>240</maxSpeed>
+            <cost>270000</cost>
+            <serialNumber>AAA222BBB333CC4</serialNumber>
+            <govNumber>4321ZY3</govNumber>
+            <fluelConsumption>24.6</fluelConsumption>
+            <wheels>4</wheels>
+        </LightWeightAuto>
+    </laArr>
+    <fcArr>
+        <FreightCar>
+            <maxSpeed>60</maxSpeed>
+            <cost>18000</cost>
+            <serialNumber>BBB111CCC222DD3</serialNumber>
+            <govNumber>7615JF5</govNumber>
+            <fluelConsumption>46.0</fluelConsumption>
+            <wheels>6</wheels>
+        </FreightCar>
+        <FreightCar>
+            <maxSpeed>30</maxSpeed>
+            <cost>200000</cost>
+            <serialNumber>BBB222CCC333DD5</serialNumber>
+            <govNumber>8426YB7</govNumber>
+            <fluelConsumption>88.8</fluelConsumption>
+            <wheels>8</wheels>
+        </FreightCar>
+    </fcArr>
+</Deport>
