@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="card_buy">Buy now!</v:String>
+    <v:String x:Key="card_email">Our e-mail:</v:String>
+    <v:String x:Key="card_phone">Our phone:</v:String>
+    <v:String x:Key="card_price">Call and order now!</v:String>
+    <v:String x:Key="form_amount">Amount</v:String>
+    <v:String x:Key="form_create">Create new!</v:String>
+    <v:String x:Key="form_description">Description</v:String>
+    <v:String x:Key="form_model">Model</v:String>
+    <v:String x:Key="form_price">Price</v:String>
+    <v:String x:Key="form_sort">Sort</v:String>
+    <v:String x:Key="form_src">Image</v:String>
+    <v:String x:Key="s_instock">In stock</v:String>
+    <v:String x:Key="s_model">Model</v:String>
+    <v:String x:Key="s_price">Price</v:String>
+    <v:String x:Key="f_language">Language</v:String>
+</ResourceDictionary>
